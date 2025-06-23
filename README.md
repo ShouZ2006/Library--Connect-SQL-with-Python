@@ -1,5 +1,5 @@
-Make sure you pay attention to these things<br>
-!.You need to use something that supprot sqlite eg: DB Browser<br>
+<em>Make sure you pay attention to these things<br></em>
+1.You need to use something that supprot sqlite eg: DB Browser<br>
 2. You must keep both of the files near each other to make this work<br>
 This is the code of the Database<br>
 -- =====================================================
